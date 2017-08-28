@@ -2,10 +2,15 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	padding-bottom: 5%;
+	background-color: cornflowerblue;
 }
 
 .sunset {
 	max-width: 100%;
+}
+
+p {
+		font-size: 10em;
 }
 
 /* Add a media query to change the background to color to yellow when the width is more than 480px*/
